@@ -14,4 +14,4 @@ Espero que goste do projeto e que ele te auxilie em sua jornada de inteligência
 
 Qualquer dúvida, pode me acionar que auxiliarei.
 
-**Antes de executar o código, troque os caminhos das variáveis no arquivo config: caminho_BI, nome_BI, caminho_modelo_word e nome_modelo_word!**
+**Antes de executar o código, troque os caminhos das variáveis no arquivo config.**
