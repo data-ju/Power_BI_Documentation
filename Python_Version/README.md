@@ -4,7 +4,7 @@ Esse projeto tem o objetivo de gerar a documentação técnica de um relatório 
 
 É necessário, antes de executar o código:
 - Transformar seu arquivo .pbix em .pbit, para fazer isso, basta abrir seu arquivo no Power BI Desktop, ir em Arquivo > Exportar > Modelo do Power BI;
-- Ter o Python baixado na sua máquina e, opcionalmente, o VSCode ou outro editor de código (utilizei o Jupyter Notebook);
+- Ter o Python baixado na sua máquina e o VSCode ou outro editor de código;
 - Instalar e importar as bibliotecas necessárias (baixe o arquivo requirements para poder importar quando rodar o código);
 - Baixar o arquivo modelo em word ou utilizar o seu próprio (configurando o código conforme seu próprio modelo).
 
